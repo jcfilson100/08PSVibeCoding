@@ -6,7 +6,7 @@
 
 _The working, shareable link that survives real users._
 
-_____
+https://preview--deal-navigator-aid.lovable.app/
 
 ## Data schema
 
@@ -41,4 +41,5 @@ adoption_targets, org_adoption_daily 	none 	read where leader 	none
 
 _What you threw at it, and what held / broke._
 
-_____
+Spam clicking, generated 20  updates in the activity log.
+offline testing did not work.
